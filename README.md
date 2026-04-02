@@ -1,4 +1,4 @@
 # harsh
 This is my first Git repository
 <br>
-Author :- Harsh Arkal  
+Author :- Harsh Arkal  (FYIT)
